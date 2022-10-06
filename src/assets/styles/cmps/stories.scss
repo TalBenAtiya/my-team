@@ -11,10 +11,11 @@
         flex-direction: column;
         align-items: center;
         margin-bottom: 55px;
+
         h2 {
             font-size: 50px;
             margin-bottom: -10px;
-            
+
             span {
                 color: #79C8C7;
             }
@@ -74,3 +75,21 @@
 }
 
 
+@media (max-width: 450px) {
+    .stories {
+        height: fit-content;
+
+        .cards-container {
+            height: fit-content;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .stories-header {
+            h2 {
+                font-size: 35px;
+                text-align: center;
+            }
+        }
+    }
+}

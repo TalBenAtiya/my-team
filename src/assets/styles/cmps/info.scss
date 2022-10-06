@@ -17,12 +17,12 @@
         display: flex;
 
         .square {
-         width: 50px;
-         height: 4px;
-         background-color: #F67E7E;  
-         position: absolute;
-         top: 0;
-         left: 0;
+            width: 50px;
+            height: 4px;
+            background-color: #F67E7E;
+            position: absolute;
+            top: 0;
+            left: 0;
         }
 
         h2 {
@@ -68,4 +68,11 @@
         right: 0;
         translate: 50% 0;
     }
+}
+
+@media (max-width: 450px) {
+    .info {
+        height: fit-content;
+    }
+
 }
