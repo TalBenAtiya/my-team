@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-team/static/css/main.2ec0d77b.css",
+    "main.js": "/my-team/static/js/main.547344fb.js",
+    "static/js/787.38aa9dd8.chunk.js": "/my-team/static/js/787.38aa9dd8.chunk.js",
+    "static/media/Livvic-Light.ttf": "/my-team/static/media/Livvic-Light.00ab7fdbfbb47fc8e788.ttf",
+    "static/media/Livvic-Bold.ttf": "/my-team/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/my-team/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/Livvic-Regular.ttf": "/my-team/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
+    "static/media/Livvic-Medium.ttf": "/my-team/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
+    "static/media/Livvic-Thin.ttf": "/my-team/static/media/Livvic-Thin.1c5099afea33fa966d62.ttf",
+    "static/media/avatar-kady.jpg": "/my-team/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
+    "static/media/avatar-arthur.jpg": "/my-team/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/avatar-aiysha.jpg": "/my-team/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
+    "static/media/logo.svg": "/my-team/static/media/logo.e4957b37f723db3bd7e0443a1054000a.svg",
+    "static/media/icon-person.svg": "/my-team/static/media/icon-person.0a313a85e4148d7ea17f5657dbbffa33.svg",
+    "static/media/icon-cog.svg": "/my-team/static/media/icon-cog.c5d2403fc5d7754badaf2da8c88d8b35.svg",
+    "static/media/icon-chart.svg": "/my-team/static/media/icon-chart.8de3d4d2ce95686ba9409a82599a8de1.svg",
+    "static/media/pattern-3.svg": "/my-team/static/media/pattern-3.4bc172f902aa8a5308451cd91cce9f8a.svg",
+    "static/media/pattern-1.svg": "/my-team/static/media/pattern-1.270440fb92b9ec53fe01270f9dd849bb.svg",
+    "static/media/icon-quotes.svg": "/my-team/static/media/icon-quotes.c51739212c310345577396beac77ec6a.svg",
+    "static/media/icon-pinterest.svg": "/my-team/static/media/icon-pinterest.a2d25ab4c70b78c4028f25323009cc58.svg",
+    "static/media/pattern-2.svg": "/my-team/static/media/pattern-2.889d5d8c448ed043a71bd7e91e884388.svg",
+    "index.html": "/my-team/index.html",
+    "static/media/icon-twitter.svg": "/my-team/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
+    "static/media/pattern-5.svg": "/my-team/static/media/pattern-5.95a2a6211526850cef5564daa5a17630.svg",
+    "static/media/icon-facebook.svg": "/my-team/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
+    "static/media/pattern-4.svg": "/my-team/static/media/pattern-4.aacd4e03b04df33749baa362f4612832.svg",
+    "main.2ec0d77b.css.map": "/my-team/static/css/main.2ec0d77b.css.map",
+    "main.547344fb.js.map": "/my-team/static/js/main.547344fb.js.map",
+    "787.38aa9dd8.chunk.js.map": "/my-team/static/js/787.38aa9dd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec0d77b.css",
+    "static/js/main.547344fb.js"
+  ]
+}
