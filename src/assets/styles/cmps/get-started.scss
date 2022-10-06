@@ -1,0 +1,30 @@
+.get-started {
+    background-color: #F67E7E;
+    width: 100%;
+    display: relative;
+
+    .get-started-details {
+        display: flex;
+        height: 200px;
+        align-items: center;
+
+        h2 {
+            font-size: 48px;
+            line-height: 48px;
+            color: #012F34;
+            margin-inline-end: 250px;
+            font-family: livvic-bold;
+        }
+
+        button {
+            width: 153px;
+            height: 48px;
+            background-color: transparent;
+            border: 2px solid #012F34;
+            border-radius: 2em;
+            color: #012F34;
+            font-size: 18px;
+            font-family: livvic-semibold;
+        }
+    }
+}

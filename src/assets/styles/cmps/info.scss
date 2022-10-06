@@ -1,0 +1,71 @@
+.info {
+    height: 684px;
+    background-color: #012F34;
+    width: 100%;
+    position: relative;
+
+    .info-container {
+        padding-top: 135px;
+        height: 404px;
+        display: flex;
+        gap: 160px;
+    }
+
+    .info-header {
+        width: 445px;
+        position: relative;
+        display: flex;
+
+        .square {
+         width: 50px;
+         height: 4px;
+         background-color: #F67E7E;  
+         position: absolute;
+         top: 0;
+         left: 0;
+        }
+
+        h2 {
+            font-family: livvic-semibold;
+            font-size: 48px;
+            line-height: 48px;
+            margin-top: 60px;
+        }
+    }
+
+    .info-details {
+        display: flex;
+        flex-direction: column;
+        width: 550px;
+        margin-top: 65px;
+        gap: 35px;
+
+        .card {
+            display: flex;
+            gap: 40px;
+
+            h5 {
+                margin-bottom: 20px;
+                font-size: 18px;
+                line-height: 28px;
+                color: #F67E7E;
+            }
+
+            p {
+                line-height: 25px;
+                font-size: 15px;
+            }
+
+            svg {
+                overflow: visible;
+            }
+        }
+    }
+
+    .pattern-3 {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        translate: 50% 0;
+    }
+}
